@@ -7,12 +7,14 @@ public:
             int mid=low+(high-low)/2;
             if(nums[mid]==target)
                 return mid;
+            //left half sorted
             else if(nums[mid]>=nums[low]){
                 if(nums[low]<=target && target<=nums[mid])
                     high=mid-1;
                 else 
                     low=mid+1;
             }
+            //right half sorted
             else{
                 if(nums[mid]<=target && target<=nums[high])
                     low=mid+1;
