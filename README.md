@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/varshang11/ARRAYS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/varshang11/ARRAYS/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/varshang11/ARRAYS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/varshang11/ARRAYS/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/varshang11/ARRAYS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/varshang11/ARRAYS/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/varshang11/ARRAYS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/varshang11/ARRAYS/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -34,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/varshang11/ARRAYS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/varshang11/ARRAYS/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/varshang11/ARRAYS/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
