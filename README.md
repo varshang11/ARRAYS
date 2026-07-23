@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/varshang11/ARRAYS/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/varshang11/ARRAYS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/varshang11/ARRAYS/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/varshang11/ARRAYS/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/varshang11/ARRAYS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
