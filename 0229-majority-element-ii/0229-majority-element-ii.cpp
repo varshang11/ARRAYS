@@ -40,9 +40,9 @@ public:
 
         count1=0,count2=0;
         for(int num:nums){
-            if(candidate1==num)
+            if(num==candidate1)
                 count1++;
-            else if(candidate2==num)
+            else if(num==candidate2)
                 count2++;
         }
 
